@@ -23,44 +23,39 @@ A simple weather web application built using **HTML**, **CSS**, and **JavaScript
 
    ```bash
    git clone https://github.com/mkkotlin/weather-web-app.git
-   2. Navigate to the Project Directory:
-
-cd weather-web-app
-
+2. Navigate to the Project Directory:
+     ```bash
+     cd weather-web-app
 
 3. Open the Application:
 
-Open the index.html file in your preferred web browser to view and use the app.
+   Open the index.html file in your preferred web browser to view and use the app.
 
+### 🔑 API Key Notice
 
+   This project uses the OpenWeatherMap API.
 
-🔑 API Key Notice
+   The API key is publicly included in the script.js file for learning purposes only.
 
-This project uses the OpenWeatherMap API.
+   In real-world projects, API keys should always be kept private and secured using environment variables or backend proxying.
 
-The API key is publicly included in the script.js file for learning purposes only.
+###📁 Project Structure
+   ```
+   weather-web-app/
+   ├── index.html
+   ├── style.css
+   ├── script.js
+   └── README.md
+```
 
-In real-world projects, API keys should always be kept private and secured using environment variables or backend proxying.
+   index.html: The main HTML file that structures the web page.
 
+   style.css: Contains all the styling rules for the application.
 
-📁 Project Structure
+   script.js: Handles the logic for fetching and displaying weather data.
 
-weather-web-app/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-
-index.html: The main HTML file that structures the web page.
-
-style.css: Contains all the styling rules for the application.
-
-script.js: Handles the logic for fetching and displaying weather data.
-
-README.md: Provides information about the project.
-
-
-📌 Notes
+   README.md: Provides information about the project.
+###📌 Notes
 
 This project was created as a learning exercise to understand the basics of web development and API integration.
 
