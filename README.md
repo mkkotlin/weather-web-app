@@ -39,7 +39,7 @@ A simple weather web application built using **HTML**, **CSS**, and **JavaScript
 
    In real-world projects, API keys should always be kept private and secured using environment variables or backend proxying.
 
-###📁 Project Structure
+### 📁 Project Structure
    ```
    weather-web-app/
    ├── index.html
@@ -55,7 +55,8 @@ A simple weather web application built using **HTML**, **CSS**, and **JavaScript
    script.js: Handles the logic for fetching and displaying weather data.
 
    README.md: Provides information about the project.
-###📌 Notes
+   
+### 📌 Notes
 
 This project was created as a learning exercise to understand the basics of web development and API integration.
 
